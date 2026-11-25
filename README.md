@@ -3,8 +3,8 @@
 * **Autor:** Ángel Sanz
 * **Módulo / Unidad:** Big Data Aplicado — UT1 (Cierre de unidad con Pentaho Data Integration)
 * **Repositorio:** `https://github.com/AngelSanz10/bda-ut1-pentaho-hotel`
-* **Código de paquete personal:** `[A001–A015 — indicar el código asignado en asignacion.json]`
-* **Identificador del cierre:** `cierre_aula_01`
+* **Código de paquete personal:** `[A002
+* **Identificador del cierre:** 01
 * **Fecha y hora de generación de los resultados:** 2026/11/25 23:15:47
 ---
 
