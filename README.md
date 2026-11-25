@@ -5,8 +5,7 @@
 * **Repositorio:** `https://github.com/AngelSanz10/bda-ut1-pentaho-hotel`
 * **Código de paquete personal:** `[A001–A015 — indicar el código asignado en asignacion.json]`
 * **Identificador del cierre:** `cierre_aula_01`
-* **Fecha y hora de generación de los resultados:** `[AAAA-MM-DD HH:MM — indicar fecha y hora exacta de generación de las salidas, sin presentarla como fecha de cobro]`
-
+* **Fecha y hora de generación de los resultados:** 2026/11/25 23:15:47
 ---
 
 ## 1. Objetivo del encargo y explicación para gerencia
@@ -131,6 +130,7 @@ Git no conserva carpetas vacías. Para ejecutar el proyecto desde una copia reci
     5. **Total incorrecto** (importe alterado en provisional y ejecución directa de `validar_informe.ktr` con error).
     6. **Recuperación** (restauración de entradas y ejecución completa del job con éxito).
     * Evidencias de bloqueo de publicación por fallo de preparación/validación y de error durante las copias con advertencia de posible estado parcial, además de los registros de sesión (`sesion-01.md`, etc.).
+
 
 ---
 
