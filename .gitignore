@@ -1,1 +1,3 @@
-temporal/
+﻿/temporal/
+*.backup
+Thumbs.db
